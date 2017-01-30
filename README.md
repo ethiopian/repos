@@ -9,6 +9,8 @@ Feel free to contribute to this repo. The goal is to have as many repos as we ca
 # Table of Contents
 
 - Localization
+  - [HornMorpho2.5](https://github.com/adamsamson/HornMorpho2.5)
+  HORNMORPHO is a Python program that analyzes Amharic, Oromo, and Tigrinya words into their constituent morphemes (meaningful parts) and generates words, given a root or stem and a representation of the word’s grammatical structure.
 - Keyboard
 - Calendar
 - Other
