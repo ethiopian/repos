@@ -18,4 +18,6 @@ Feel free to contribute to this repo. The goal is to have as many repos as we ca
   - [Ethiopic-Calendar](https://github.com/moe-szyslak/Ethiopic-Calendar) [![Build Status](https://travis-ci.org/moe-szyslak/Ethiopic-Calendar.svg?branch=master)](https://travis-ci.org/moe-szyslak/Ethiopic-Calendar)
   JavaScript implementation of [Beyene-Kudlek](http://geez.org/Calendars/) algorithm.
 - WIPs
-- Other
+- Other apps
+  - [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch)
+  Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating, Movie Plot & Trailer video. Built with React and Cordova
