@@ -17,6 +17,7 @@ Feel free to contribute to this repo. The goal is to have as many repos as we ca
   - [Sleeboard](https://github.com/sleeboard/sleeboard) An Amharic keyboard to add to your website.
   - [Amharic-Keyboard](https://github.com/dawityise/Amharic-Keyboard) jQuery plugin for Amharic keyboard support online
   - [en2am](https://github.com/misgeatgit/en2am) Yet another way to type amharic on standard english keyboard.
+  - [EthiopicWeb](https://github.com/tedinega/EthiopicWeb) Map English characters to Ethiopic phonetics
 - Calendar
   - [Ethiopic-Calendar](https://github.com/moe-szyslak/Ethiopic-Calendar) [![Build Status](https://travis-ci.org/moe-szyslak/Ethiopic-Calendar.svg?branch=master)](https://travis-ci.org/moe-szyslak/Ethiopic-Calendar)
   JavaScript implementation of [Beyene-Kudlek](http://geez.org/Calendars/) algorithm.
@@ -24,6 +25,7 @@ Feel free to contribute to this repo. The goal is to have as many repos as we ca
   - [EdnaBot](https://github.com/ntgx/EdnaBot) Edna Mall Telegram Bot [@ednabot](https://telegram.me/EdnaBot)
   - [RansomEmojiBot](https://github.com/ntgx/RansomEmojiBot) Telegram bot that generates ransom note using emoji [@RansomEmojiBot](https://telegram.me/RansomEmojiBot)
   - [Amharic-telegram-bot](https://github.com/nathenapse/Amharic-telegram-bot) This is a telegram bot to translate text to amharic [@amharicbot](https://telegram.me/AmharicBot)
+  - [Zefen Telegram Bot](https://github.com/b3rew/zefen-bot) Telegram Bot that let you search and play Ethiopian music inside telegram using a beautiful in app music player [@zefenBot](https://telegram.me/zefenBot)
   - [Nooice](https://github.com/moe-szyslak/Nooice) Telegram Bot @NooiceBot that speaks NOOICE, also does some other less important stuff too 😒. Nearest 🏧 (with moderation handled inside Telegram), Today's Date in Ethiopic, and Geez Converter. [@NooiceBot](https://telegram.me/NooiceBot)
 - Other apps
   - [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch)
