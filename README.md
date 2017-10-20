@@ -12,15 +12,22 @@ Feel free to contribute to this repo. The goal is to have as many repos as we ca
   - [geezorg](https://github.com/geezorg) Digital Resources for the Realm of Ge'ez.
   - [HornMorpho2.5](https://github.com/adamsamson/HornMorpho2.5) 
   HORNMORPHO is a Python program that analyzes Amharic, Oromo, and Tigrinya words into their constituent morphemes (meaningful parts) and generates words, given a root or stem and a representation of the word’s grammatical structure.
-  - [Geezer](https://github.com/moe-szyslak/Geezer) [![Build Status](https://travis-ci.org/moe-szyslak/Geezer.svg?branch=master)](https://travis-ci.org/moe-szyslak/Geezer)
+  - [Geezer](https://github.com/moe-szyslak/Geezer) [![Build Status](https://travis-ci.org/utopiaio/Geezer.svg?branch=master)](https://travis-ci.org/utopiaio/Geezer)
   Converts Arabic numerals to Geez
   - [Sleeboard](https://github.com/sleeboard/sleeboard) An Amharic keyboard to add to your website.
   - [Amharic-Keyboard](https://github.com/dawityise/Amharic-Keyboard) jQuery plugin for Amharic keyboard support online
   - [en2am](https://github.com/misgeatgit/en2am) Yet another way to type amharic on standard english keyboard.
   - [EthiopicWeb](https://github.com/tedinega/EthiopicWeb) Map English characters to Ethiopic phonetics
 - Calendar
-  - [Ethiopic-Calendar](https://github.com/moe-szyslak/Ethiopic-Calendar) [![Build Status](https://travis-ci.org/moe-szyslak/Ethiopic-Calendar.svg?branch=master)](https://travis-ci.org/moe-szyslak/Ethiopic-Calendar)
+  - [Ethiopic-Calendar](https://github.com/moe-szyslak/Ethiopic-Calendar) [![Build Status](https://travis-ci.org/utopiaio/Ethiopic-Calendar.svg?branch=master)](https://travis-ci.org/utopiaio/Ethiopic-Calendar)
   JavaScript implementation of [Beyene-Kudlek](http://geez.org/Calendars/) algorithm.
+  - [EC.js](https://github.com/b3rew/EC.Js) Ethiopian calendar (የኢትዮጲያ የቀን መቁጠሪያ) for Javascript (yet another one)
+  - [Zemen](https://github.com/m3hari/zemen) Ethiopian Calander - የ ኢትዮጲያ የቀን መቁጠሪያ Library
+  - [calender](https://github.com/andegna/calender) If you ever want to convert Ethiopian Calender to any other calender system (like the Gregorian Calender)
+- Ethiopic Data
+  - [Ethiopic-Data](https://github.com/b3rew/ethiopic-data) list of collected Ethiopia related data
+  - [Faket](https://github.com/m3hari/faket) A library for generating Ethopic fake data such as names, addresses, and phone numbers
+  - [ethiopian-names](https://github.com/yonihahasis/ethiopian-names) List of 44k unique Ethiopian names in a JSON format.
 - [Telegram Bots](https://telegram.org)
   - [EdnaBot](https://github.com/ntgx/EdnaBot) Edna Mall Telegram Bot [@ednabot](https://telegram.me/EdnaBot)
   - [RansomEmojiBot](https://github.com/ntgx/RansomEmojiBot) Telegram bot that generates ransom note using emoji [@RansomEmojiBot](https://telegram.me/RansomEmojiBot)
