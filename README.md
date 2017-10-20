@@ -1,7 +1,7 @@
 Useful Projects (Repos) related to Ethiopia
 ==============================
 
-This repository is a collection of repos that are concerned with developing Ethiopian related apps, chatbots, APIS, AI, etc.
+This repository is a collection of repos that are concerned with developing Ethiopian related apps, chatbots, APIs, AI, etc.
 
 # Contribution
 
@@ -25,6 +25,7 @@ Feel free to contribute to this repo. The goal is to have as many repos as we ca
   JavaScript implementation of [Beyene-Kudlek](http://geez.org/Calendars/) algorithm.
   - [Zemen](https://github.com/m3hari/zemen) Ethiopian Calander - የ ኢትዮጲያ የቀን መቁጠሪያ Library
 - Ethiopic Data
+  - [Ethiopia LSMS Household Cluster Location ](https://github.com/tessam30/Ethiopia) Ethiopia Rural Socioeconomic Survey (ERSS) Analysis
   - [Ethiopic-Data](https://github.com/b3rew/ethiopic-data) list of collected Ethiopia related data
    - [ethiopian-names](https://github.com/yonihahasis/ethiopian-names) List of 44k unique Ethiopian names in a JSON format.
   - [Faket](https://github.com/m3hari/faket) A library for generating Ethopic fake data such as names, addresses, and phone numbers
