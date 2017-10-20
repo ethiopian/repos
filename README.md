@@ -1,11 +1,11 @@
-Et repos
-========
+Ethiopian repos by @nathenapse
+==============================
 
 This repo is a collection of repos that are concerned with developing Habesha apps.
 
 # Contribution
 
-Feel free to contribute to this repo. The goal is to have as many repos as we can so that other developers can find what they are looking for. If you guys have a [Repository suggestions](https://github.com/nathenapse/et-repos/issues/1) add a comment.
+Feel free to contribute to this repo. The goal is to have as many repos as we can so that other developers can find what they are looking for. If you guys have a [Repository suggestions](https://github.com/ethiopian/repos/issues/new) add a comment.
 
 # Table of Contents
 
