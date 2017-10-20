@@ -1,4 +1,5 @@
-# Et repos
+Et repos
+========
 
 This repo is a collection of repos that are concerned with developing Habesha apps.
 
