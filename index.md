@@ -1,4 +1,3 @@
-
 Useful Projects (Repos) related to Ethiopia
 ==============================
 
@@ -48,4 +47,3 @@ Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating,
 # Contribution
 
 Feel free to contribute to this repo. The goal is to have as many repos as we can so that other developers can find what they are looking for. If you guys have a [Repository suggestions](https://github.com/ethiopian/repos/issues/new) add a comment.
-
