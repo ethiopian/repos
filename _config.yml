@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
-  - jekyll-feed
+  - jekyll-readme-index
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
