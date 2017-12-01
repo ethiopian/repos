@@ -12,6 +12,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [En2am](https://github.com/misgeatgit/en2am) Yet another way to type amharic on standard english keyboard.
   * [EthiopicWeb](https://github.com/tedinega/EthiopicWeb) Map English characters to Ethiopic phonetics
   * [Geezer](https://github.com/moe-szyslak/Geezer) Converts Arabic numerals to Geez
+  * [geezify-php](https://github.com/geezify/geezify-php) This package is a library to convert ascii number like '3456' to geez number '፴፬፻፶፮' and vise versa.
   * [Ime](https://github.com/menzew/input-method-editor-for-am_ET) (Java) Input Method for am_et. Simple algorithm, portable code.
   * [Magento-translation-am](https://github.com/admasethiopia/magento-translation-am) [Majento](https://magento.com/) 1.7.0.2 Amharic Translation
   * [HornMorpho2.5](https://github.com/adamsamson/HornMorpho2.5)
