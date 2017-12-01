@@ -34,6 +34,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [Ethiopic-Data](https://github.com/b3rew/ethiopic-data) list of collected Ethiopia related data
   * [Ethiopian-names](https://github.com/yonihahasis/ethiopian-names) List of 44k unique Ethiopian names in a JSON format.
   * [Faket](https://github.com/m3hari/faket) A library for generating Ethopic fake data such as names, addresses, and phone numbers
+  * [myethiopia](https://github.com/myethiopia/Ethiopia) Ethiopia | Adiminstrative Regions: Prior to 1991 
 
 #### [](#telegram-bots)[Telegram Bots](https://telegram.org/)
   * [Amharic-telegram-bot](https://github.com/nathenapse/Amharic-telegram-bot) This is a telegram bot to translate text to amharic [@amharicbot](https://telegram.me/AmharicBot)
