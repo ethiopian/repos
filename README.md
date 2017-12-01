@@ -24,6 +24,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [EC.js](https://github.com/b3rew/EC.Js) Ethiopian calendar (የኢትዮጲያ የቀን መቁጠሪያ) for Javascript (yet another one)
   * [Ethiopic-Calendar](https://github.com/moe-szyslak/Ethiopic-Calendar) JavaScript implementation of [Beyene-Kudlek](http://geez.org/Calendars/) algorithm.
   * [ethiopic_calendar](https://github.com/vtprepo/ethiopic_calendar) Ruby Ethiopian Calendar module. To change to and from Gregorian to Ethiopic date versions 
+  * [ken.js](https://github.com/Miqe/ken.js) Ethiopian Date converter that works for the browser and node.js 
   * [Zemen](https://github.com/m3hari/zemen) Ethiopian Calander - የኢትዮጲያ የቀን መቁጠሪያ Library
 
 #### [](#ethiopic-data)Ethiopic Data
