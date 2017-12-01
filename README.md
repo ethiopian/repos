@@ -48,10 +48,9 @@ This repository is a collection of repos that are concerned with developing Ethi
  * [G12 Matrick App](https://github.com/RhinoSoftware/G12Matric) G12 Matrick App is an application made for android that aims to assist Ethiopian grade 12 students with matrick exam materials to help them prepare for national examination 
 
 #### [](#other-apps)Other apps
-  * [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch)
+ * [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch) Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating, Movie Plot & Trailer video. Built with React and Cordova
  * [EthTransport](https://github.com/dawitnida/EthTransport) Ethiopia Transportations API 
-Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating, Movie Plot & Trailer video. Built with React and Cordova
-
+ * [ENAD](https://github.com/tderso/enad_app) Rails | Ethiopian National Association of the Deaf (ENAD) Application 
 # Contribution
 
 Feel free to contribute to this repo. The goal is to have as many repos as we can so that other developers can find what they are looking for. If you guys have a [Repository suggestions](https://github.com/ethiopian/repos/issues/new) add a comment.
