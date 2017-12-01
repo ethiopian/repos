@@ -49,6 +49,7 @@ This repository is a collection of repos that are concerned with developing Ethi
 
 #### [](#other-apps)Other apps
   * [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch)
+ * [EthTransport](https://github.com/dawitnida/EthTransport) Ethiopia Transportations API 
 Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating, Movie Plot & Trailer video. Built with React and Cordova
 
 # Contribution
