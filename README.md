@@ -26,6 +26,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [ethiopic_calendar](https://github.com/vtprepo/ethiopic_calendar) Ruby Ethiopian Calendar module. To change to and from Gregorian to Ethiopic date versions 
   * [ken.js](https://github.com/Miqe/ken.js) Ethiopian Date converter that works for the browser and node.js 
   * [Zemen](https://github.com/m3hari/zemen) Ethiopian Calander - የኢትዮጲያ የቀን መቁጠሪያ Library
+  * [EthiopianChronology](https://github.com/andegna/EthiopianChronology) EthiopianChronology is simply a library designed based on the extensible **JDK 8** new date and time API. Using the Ethiopic.org Calender Class underneath.
 
 #### [](#ethiopic-data)Ethiopic Data
   * [Ethiopia LSMS Household Cluster Location ](https://github.com/tessam30/Ethiopia) Ethiopia Rural Socioeconomic Survey (ERSS) Analysis
