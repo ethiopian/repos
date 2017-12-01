@@ -15,8 +15,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [geezify-php](https://github.com/geezify/geezify-php) This package is a library to convert ascii number like '3456' to geez number '፴፬፻፶፮' and vise versa.
   * [Ime](https://github.com/menzew/input-method-editor-for-am_ET) (Java) Input Method for am_et. Simple algorithm, portable code.
   * [Magento-translation-am](https://github.com/admasethiopia/magento-translation-am) [Majento](https://magento.com/) 1.7.0.2 Amharic Translation
-  * [HornMorpho2.5](https://github.com/adamsamson/HornMorpho2.5)
-  HORNMORPHO is a Python program that analyzes Amharic, Oromo, and Tigrinya words into their constituent morphemes (meaningful parts) and generates words, given a root or stem and a representation of the word’s grammatical structure.
+  * [HornMorpho2.5](https://github.com/adamsamson/HornMorpho2.5) HORNMORPHO is a Python program that analyzes Amharic, Oromo, and Tigrinya words into their constituent morphemes (meaningful parts) and generates words, given a root or stem and a representation of the word’s grammatical structure.
   * [Sleeboard](https://github.com/sleeboard/sleeboard) An Amharic keyboard to add to your website.
 
 #### [](#calendar)Calendar
@@ -50,9 +49,12 @@ This repository is a collection of repos that are concerned with developing Ethi
 
 #### [](#other-apps)Other apps
  * [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch) Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating, Movie Plot & Trailer video. Built with React and Cordova
- * [EthTransport](https://github.com/dawitnida/EthTransport) Ethiopia Transportations API 
  * [ENAD](https://github.com/tderso/enad_app) Rails | Ethiopian National Association of the Deaf (ENAD) Application 
-# Contribution
+ * [EthTransport](https://github.com/dawitnida/EthTransport) Ethiopia Transportations API 
+ * [Ethiopia-geostat](https://github.com/JiehuaChen/Ethiopia-geostat) geostatistics codes for mapping using Ethiopia data
 
-Feel free to contribute to this repo. The goal is to have as many repos as we can so that other developers can find what they are looking for. If you guys have a [Repository suggestions](https://github.com/ethiopian/repos/issues/new) add a comment.
+# Contribution
+Feel free to contribute to this repo.
+The goal is to have as many repos as we can so that other developers can find what they are looking for. 
+If you guys have a [Repository suggestions](https://github.com/ethiopian/repos/issues/new) add a comment.
 
