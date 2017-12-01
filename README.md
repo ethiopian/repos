@@ -12,7 +12,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [EC.js](https://github.com/b3rew/EC.Js) Ethiopian calendar (የኢትዮጲያ የቀን መቁጠሪያ) for Javascript (yet another one)
   * [En2am](https://github.com/misgeatgit/en2am) Yet another way to type amharic on standard english keyboard.
   * [EthiopicWeb](https://github.com/tedinega/EthiopicWeb) Map English characters to Ethiopic phonetics
-  * [Geezer](https://github.com/moe-szyslak/Geezer) [![Build Status](https://travis-ci.org/utopiaio/Geezer.svg?branch=master)](https://travis-ci.org/utopiaio/Geezer) Converts Arabic numerals to Geez
+  * [Geezer](https://github.com/moe-szyslak/Geezer) Converts Arabic numerals to Geez
   * [Ime](https://github.com/menzew/input-method-editor-for-am_ET) (Java) Input Method for am_et. Simple algorithm, portable code.
   * [Magento-translation-am](https://github.com/admasethiopia/magento-translation-am) [Majento](https://magento.com/) 1.7.0.2 Amharic Translation
   * [HornMorpho2.5](https://github.com/adamsamson/HornMorpho2.5)
@@ -21,8 +21,7 @@ This repository is a collection of repos that are concerned with developing Ethi
 
 #### [](#calendar)Calendar
   * [calender](https://github.com/andegna/calender) If you ever want to convert Ethiopian Calender to any other calender system (like the Gregorian Calender)
-  * [Ethiopic-Calendar](https://github.com/moe-szyslak/Ethiopic-Calendar) [![Build Status](https://travis-ci.org/utopiaio/Ethiopic-Calendar.svg?branch=master)](https://travis-ci.org/utopiaio/Ethiopic-Calendar)
-  JavaScript implementation of [Beyene-Kudlek](http://geez.org/Calendars/) algorithm.
+  * [Ethiopic-Calendar](https://github.com/moe-szyslak/Ethiopic-Calendar) JavaScript implementation of [Beyene-Kudlek](http://geez.org/Calendars/) algorithm.
   * [Zemen](https://github.com/m3hari/zemen) Ethiopian Calander - የኢትዮጲያ የቀን መቁጠሪያ Library
 
 #### [](#ethiopic-data)Ethiopic Data
