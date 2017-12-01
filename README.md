@@ -44,6 +44,9 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [RansomEmojiBot](https://github.com/ntgx/RansomEmojiBot) Telegram bot that generates ransom note using emoji [@RansomEmojiBot](https://telegram.me/RansomEmojiBot)
   * [Zefen Telegram Bot](https://github.com/b3rew/zefen-bot) Telegram Bot that let you search and play Ethiopian music inside telegram using a beautiful in app music player [@zefenBot](https://telegram.me/zefenBot)
 
+#### [](#android-apps) Android Apps
+ * [G12 Matrick App](https://github.com/RhinoSoftware/G12Matric) G12 Matrick App is an application made for android that aims to assist Ethiopian grade 12 students with matrick exam materials to help them prepare for national examination 
+
 #### [](#other-apps)Other apps
   * [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch)
 Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating, Movie Plot & Trailer video. Built with React and Cordova
