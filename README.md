@@ -62,7 +62,7 @@ This repository is a collection of repos that are concerned with developing Ethi
  * [ENAD](https://github.com/tderso/enad_app) Rails Ethiopian National Association of the Deaf (ENAD) Application 
  * [EthTransport](https://github.com/dawitnida/EthTransport) Ethiopia Transportations API 
  * [Ethiopia-geostat](https://github.com/JiehuaChen/Ethiopia-geostat) geostatistics codes for mapping using Ethiopia data
-
+ * [Ethiopian Birr Currency Exchange Rate](https://github.com/Minab-Tech/etb-currency-exchange) Ethiopian Birr foreign Currency Exchange rate parser
 ---
 
 # Contribution
