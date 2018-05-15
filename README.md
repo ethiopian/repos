@@ -28,6 +28,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [ken.js](https://github.com/Miqe/ken.js) Ethiopian Date converter that works for the browser and node.js 
   * [Zemen](https://github.com/m3hari/zemen) Ethiopian Calander - የኢትዮጲያ የቀን መቁጠሪያ Library
   * [EthiopianChronology](https://github.com/andegna/EthiopianChronology) EthiopianChronology is simply a library designed based on the extensible **JDK 8** new date and time API. Using the Ethiopic.org Calender Class underneath.
+  * [Ameshash](https://github.com/askual/ameshash) Ethiopian Calender plugin for wordpress.
 
 ---
 
@@ -49,6 +50,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [Nooice](https://github.com/moe-szyslak/Nooice) Telegram Bot @NooiceBot that speaks NOOICE, also does some other less important stuff too 😒. Nearest 🏧 (with moderation handled inside Telegram), Today's Date in Ethiopic, and Geez Converter. [@NooiceBot](https://telegram.me/NooiceBot)
   * [RansomEmojiBot](https://github.com/ntgx/RansomEmojiBot) Telegram bot that generates ransom note using emoji [@RansomEmojiBot](https://telegram.me/RansomEmojiBot)
   * [Zefen Telegram Bot](https://github.com/b3rew/zefen-bot) Telegram Bot that let you search and play Ethiopian music inside telegram using a beautiful in app music player [@zefenBot](https://telegram.me/zefenBot)
+  * [Snt birr new bot](https://github.com/askual/Sint-birr-nw-bot) A Telegram bot that tells you the price/cost of a file before downloading it on mobile data.
 
 ---
 
