@@ -13,6 +13,7 @@ This repository is a collection of repos that are concerned with developing Ethi
   * [EthiopicWeb](https://github.com/tedinega/EthiopicWeb) Map English characters to Ethiopic phonetics
   * [Geezer](https://github.com/moe-szyslak/Geezer) Converts Arabic numerals to Geez
   * [geezify-php](https://github.com/geezify/geezify-php) This package is a library to convert ascii number like '3456' to geez number '፴፬፻፶፮' and vise versa.
+  * [geezify-js](https://github.com/geezify/geezify-js) This package is a library to convert ascii number like '3456' to geez number '፴፬፻፶፮' and vise versa.  
   * [Ime](https://github.com/menzew/input-method-editor-for-am_ET) (Java) Input Method for am_et. Simple algorithm, portable code.
   * [Magento-translation-am](https://github.com/admasethiopia/magento-translation-am) [Majento](https://magento.com/) 1.7.0.2 Amharic Translation
   * [HornMorpho2.5](https://github.com/adamsamson/HornMorpho2.5) HORNMORPHO is a Python program that analyzes Amharic, Oromo, and Tigrinya words into their constituent morphemes (meaningful parts) and generates words, given a root or stem and a representation of the word’s grammatical structure.
