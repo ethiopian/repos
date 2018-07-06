@@ -66,6 +66,7 @@ This repository is a collection of repos that are concerned with developing Ethi
  * [EthTransport](https://github.com/dawitnida/EthTransport) Ethiopia Transportations API 
  * [Ethiopia-geostat](https://github.com/JiehuaChen/Ethiopia-geostat) geostatistics codes for mapping using Ethiopia data
  * [Ethiopian Birr Currency Exchange Rate](https://github.com/Minab-Tech/etb-currency-exchange) Ethiopian Birr foreign Currency Exchange rate parser
+ * [Ethiopian Birr Currency Exchange API Server](https://github.com/b3rew/etb-currency-exchange) Ethiopian Birr foreign Currency Exchange rate API server
 ---
 
 # Contribution
