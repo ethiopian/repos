@@ -67,6 +67,8 @@ This repository is a collection of repos that are concerned with developing Ethi
  * [Ethiopia-geostat](https://github.com/JiehuaChen/Ethiopia-geostat) geostatistics codes for mapping using Ethiopia data
  * [Ethiopian Birr Currency Exchange Rate](https://github.com/Minab-Tech/etb-currency-exchange) Ethiopian Birr foreign Currency Exchange rate parser
  * [Ethiopian Birr Currency Exchange API Server](https://github.com/b3rew/etb-currency-exchange) Ethiopian Birr foreign Currency Exchange rate API server
+ * [Amharic Spelling corrector](https://github.com/Yididya/amharic_spell_corrector) Amharic Spelling Corrector based on SymSpell - Spelling corrector which is 1 million times faster through Symmetric Delete spelling correction algorithm
+ 
 ---
 
 # Contribution
