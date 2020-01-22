@@ -59,6 +59,7 @@ This repository is a collection of repos that are concerned with developing Ethi
 
 #### [](#android-apps) Android Apps
  * [G12 Matrick App](https://github.com/RhinoSoftware/G12Matric) G12 Matrick App is an application made for android that aims to assist Ethiopian grade 12 students with matrick exam materials to help them prepare for national examination 
+ * [Kuwas App](https://github.com/brookmg/kuwas) Android application that provides the latest news and detail about the Ethiopian premier league. Currently available in the google playstore. 
 
 ---
 
