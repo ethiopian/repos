@@ -74,6 +74,7 @@ This repository is a collection of repos that are concerned with developing Ethi
  * [Soccer Ethiopia API](https://github.com/brookmg/Soccer-Ethiopia-API) An unofficial Android library used to fetch the latest ethiopian premier league data.
  * [Direct Download Stalker](https://github.com/yilkalargaw/direct_download_stalker) a self hostable file to get optimized search google results for your direct download needs
  * [DEVS.et](https://github.com/devs-et/devs-et-web) a community platform for Ethiopian developers
+ * [org-auto-tangle](https://github.com/yilkalargaw/org-auto-tangle) an emacs package to automatically and asynchronously tangle code in an org file
   
 ---
 
