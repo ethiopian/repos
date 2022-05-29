@@ -63,6 +63,12 @@ This repository is a collection of repos that are concerned with developing Ethi
 
 ---
 
+#### [](#Github-Organizations) Github Organizations
+ * [Ge'ez Frontier Foundation](https://github.com/geezorg) A github organization filled with various texts, software and encoding & decoding tools for those needing resorces for working with languages that use the Ge'ez alphabet.
+ * [geezify](https://github.com/orgs/geezify) A github organization that contains libraries for geeze number conversion in various programming languages.
+
+----
+
 #### [](#other-apps)Other apps
  * [Gus-Petch](https://github.com/moe-szyslak/Gus-Petch) Edna Mall's multiplex unofficial iOS App. Works Offline, Rotten Tomatoes rating, Movie Plot & Trailer video. Built with React and Cordova
  * [ENAD](https://github.com/tderso/enad_app) Rails Ethiopian National Association of the Deaf (ENAD) Application 
